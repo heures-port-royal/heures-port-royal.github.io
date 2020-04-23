@@ -9,7 +9,20 @@
     ],
 
     "folders": {
-        
+
+        "trimmed-office_1653":
+        ["L’Office de l’Église En latin & en françois. Contenant l’Office de la Vierge.",
+            "Paris, Vve Camusat & P. Le Petit", 1653,
+            "Office_de_l_Eglise_1653.pdf", {           
+        }],
+
+        "trimmed-office_1777":
+        ["L’Office de l’Église en français et en latin, contenant l’Office de la Vierge",
+            "Paris, De Hansy", 1777,
+            "Office_de_l_́Eglise_1777.pdf", {
+            
+        }],
+
         "office_1653":
         ["L’Office de l’Église En latin & en françois. Contenant l’Office de la Vierge.",
             "Paris, Vve Camusat & P. Le Petit", 1653,
