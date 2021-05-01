@@ -1,4 +1,4 @@
-# [Heures de Port-Royal](https://heures.sacy.be/)
+# [Heures de Port-Royal, ou *L’Office de l’Église en latin & en français, contenant l’Office de la Vierge*.](https://heures.sacy.be/)
 
 ## Conditions d’utilisation
 
